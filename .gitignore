@@ -35,3 +35,5 @@ data/weather-big/2014-01-28.hdf5
 data/weather-big/2014-01-29.hdf5
 data/weather-big/2014-01-30.hdf5
 data/weather-big/2014-01-31.hdf5
+*.dirlock
+*.lock
