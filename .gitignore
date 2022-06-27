@@ -2,3 +2,4 @@
 .DS_Store
 *.ipynb
 *.ipynb
+notebooks/.DS_Store
